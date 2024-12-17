@@ -67,7 +67,8 @@ RegisterNumber:24900136
 ```
 T FLPIP FLOP:
 ```
-![image](https://github.com/user-attachments/assets/bba7546f-1537-443a-8e78-efb564bf56b2)
+![image](https://github.com/user-attachments/assets/b14477c9-4267-4bbf-aaf3-6e5d866adcd8)
+
 
 
 
